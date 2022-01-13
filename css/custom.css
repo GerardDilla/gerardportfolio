@@ -1,0 +1,24 @@
+.custom-profile-frame{
+  width:150px;
+  height: 150px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: #fff;
+  padding: 0px !important;
+  text-align: center;
+  border: 2px solid #ccc;
+
+  box-shadow: 1px 4px 22px -7px rgba(0,0,0,0.75);
+-webkit-box-shadow: 1px 4px 22px -7px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 4px 22px -7px rgba(0,0,0,0.75);
+}
+.custom-profile-frame img{
+
+  width:160px;
+  height: auto;
+  border: none !important;
+  max-width: 20rem !important;
+  max-height: 20rem !important;
+  margin-left: -10px !important;
+  margin-top: -5px !important;
+}
